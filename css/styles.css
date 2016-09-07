@@ -1,0 +1,108 @@
+header{
+  background-color: #06D6A0;
+  overflow:auto;
+  padding: 20px;
+}
+
+.logo {
+
+  color:white;
+  font-size: 20px;
+  margin: 0;
+  float:left;
+  display: inline;
+  text-align: center;
+}
+
+.menu ul{
+  display: inline;
+}
+
+.nav-item{
+  float: right;
+  display: inline-block;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.photo-main{
+  background: #26547C;
+  overflow: hidden;
+}
+
+#main-pic{
+  width: 60%;
+  float: left;
+}
+
+#main-text{
+  width: 40%;
+  float: right;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  font-size: 35px;
+}
+
+h3{
+  margin: 0;
+}
+
+.section-content{
+  padding: 45px 33px;
+}
+
+#products{
+  background-color: #F2F2F2;
+}
+
+.item-pic{
+  border: 3px solid black;
+  margin: 8px;
+  width: 29%;
+}
+
+#cats{
+  background-color: #FFD166;
+}
+
+.gallery{
+  padding-left: 5px;
+}
+
+.content-all{
+  width: 90%;
+  margin: auto;
+}
+
+#about{
+  background-color: #26547C;
+}
+
+.about-header{
+  color: #EF476F;
+  display: inline-block;
+  padding: 0px 11%;
+}
+
+.headers{
+  text-align: center;
+}
+
+#about p{
+  color: white;
+}
+
+body{
+  font-family: "Helvetica Neue",sans-serif;
+  margin: 0;
+  font-size: 18px;
+}
+
+footer{
+  text-align: right;
+  padding: 20px;
+  background-color: #06D6A0;
+}
